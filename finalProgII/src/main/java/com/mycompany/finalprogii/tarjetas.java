@@ -9,5 +9,20 @@ package com.mycompany.finalprogii;
  * @author lbritos
  */
 public class tarjetas {
+    //Atributos
+    public String nroTarjeta;
+    public String horaEntrada;
+    public String horaSalida;   
     
+     //Metodos
+    //Metodos constructores
+    
+    
+    //Metodos de clase
+    
+    
+    //Getters y setters
+    
+    
+    //ToString
 }

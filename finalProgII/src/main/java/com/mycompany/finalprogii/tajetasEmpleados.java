@@ -8,6 +8,6 @@ package com.mycompany.finalprogii;
  *
  * @author lbritos
  */
-public class tajetasEmpleados {
+public class tajetasEmpleados extends tarjetas {
     
 }

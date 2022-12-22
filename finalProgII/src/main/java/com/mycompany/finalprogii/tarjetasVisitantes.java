@@ -8,6 +8,7 @@ package com.mycompany.finalprogii;
  *
  * @author lbritos
  */
-public class tarjetasVisitantes {
+public class tarjetasVisitantes extends tarjetas {
+    
     
 }
